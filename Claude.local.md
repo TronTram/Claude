@@ -52,4 +52,8 @@
 - **Minimal Impact**: Changes should only touch what's necessary. Avoid introducing bugs.
 
 ## Compact
-- When compacting, preserve the full list of modified files and current test status. 
+- When compacting, preserve the full list of modified files and current test status.
+
+## Code Documentation
+
+When modifying code logic, always update related comments to prevent stale/misleading documentation.
